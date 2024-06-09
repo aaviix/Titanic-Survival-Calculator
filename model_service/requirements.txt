@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn==1.4.0
+pytest 
